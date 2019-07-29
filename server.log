@@ -1,0 +1,770 @@
+starting
+Server running at http://127.0.0.1:3000/
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+ReferenceError: path is not defined
+    at C:\Users\Holly\Desktop\dps\server.js:9:18
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Holly\Desktop\dps\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at C:\Users\Holly\Desktop\dps\server.js:9:18
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Holly\Desktop\dps\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at C:\Users\Holly\Desktop\dps\server.js:9:18
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Holly\Desktop\dps\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at C:\Users\Holly\Desktop\dps\server.js:9:18
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Holly\Desktop\dps\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+ReferenceError: path is not defined
+    at C:\Users\Holly\Desktop\dps\server.js:9:18
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Holly\Desktop\dps\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+Example app listening on port 3000!
+Error: ENOENT: no such file or directory, stat 'C:\Users\Holly\Desktop\dpsbuild\html\index.html'
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+TypeError: Cannot read property 'typeCast' of undefined
+    at Object.query (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:188:34)
+    at Object.exports.searchItems (C:\Users\Holly\Desktop\dps\lib\api.js:6:5)
+    at C:\Users\Holly\Desktop\dps\server.js:17:6
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+TypeError: Cannot read property 'typeCast' of undefined
+    at Object.query (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:188:34)
+    at Object.exports.searchItems (C:\Users\Holly\Desktop\dps\lib\api.js:6:5)
+    at C:\Users\Holly\Desktop\dps\server.js:17:6
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Holly\Desktop\dps\node_modules\express\lib\router\index.js:275:10)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer. Received type object
+    at ServerResponse.end (_http_outgoing.js:690:13)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\server.js:18:7)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+fur
+fur
+fur
+fur
+Example app listening on port 3000!
+Example app listening on port 3000!
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+Example app listening on port 3000!
+fur asds
+fur asds
+Example app listening on port 3000!
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+fur asds
+Example app listening on port 3000!
+fur asds
+fur asds
+Example app listening on port 3000!
+fur asds
+fur asds
+fur asds
+helm asds
+Example app listening on port 3000!
+fury asds
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:14:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+C:\Users\Holly\Desktop\dps\lib\api.js:29
+}
+^
+
+SyntaxError: missing ) after argument list
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (C:\Users\Holly\Desktop\dps\server.js:3:13)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+C:\Users\Holly\Desktop\dps\lib\api.js:29
+	}
+	^
+
+SyntaxError: missing ) after argument list
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (C:\Users\Holly\Desktop\dps\server.js:3:13)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+Example app listening on port 3000!
+fur asds
+Example app listening on port 3000!
+fur asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fur asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fur asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fur asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fur asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:14:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:14:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:14:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+fury asds
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: results.foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:12:11)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+Example app listening on port 3000!
+fury asds
+Example app listening on port 3000!
+fury asds
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Object.keys(...).foreach is not a function
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:13:24)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query._handleFinalResultPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:139:8)
+    at Query.EofPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:123:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+Example app listening on port 3000!
+fury asds
+Example app listening on port 3000!
+fury asds
+fury asds
+Example app listening on port 3000!
+fury asds
+fury asds
+Example app listening on port 3000!
+fury asds
+fury asds
+fury asds
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Cannot read property 'length' of undefined
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:11:26)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:91:28)
+Example app listening on port 3000!
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Cannot read property 'length' of undefined
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:11:26)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:91:28)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Cannot read property 'length' of undefined
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:11:26)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:91:28)
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Cannot read property 'length' of undefined
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:11:26)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:91:28)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+TypeError: Cannot read property 'length' of undefined
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\lib\api.js:19:26)
+    at Query.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:91:28)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Example app listening on port 3000!
+Example app listening on port 3000!
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Example app listening on port 3000!
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Emitted 'error' event at:
+    at Connection._handleProtocolError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:426:8)
+    at Protocol.emit (events.js:198:13)
+    at Protocol._delegateError (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\Users\Holly\Desktop\dps\node_modules\mysql\lib\Connection.js:97:28)
+    [... lines matching original stack trace ...]
+    at process._tickCallback (internal/process/next_tick.js:63:19)

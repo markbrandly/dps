@@ -1,0 +1,14 @@
+<form class='auto-complete-container' id="{{id}}">
+  <input 
+    type="text" class="auto-complete-input" 
+    ng-change="search.getList()" ng-model="search.dataObj.searchText"
+    ng-focus="focused = true" 
+    ng-blur="focused = false"
+    placeholder="{{placeholder}}"
+  >
+  <ol class='auto-complete-results' ng-show="focused && search.dataObj.showList.length">
+    <li ng-attr-data-index={{index}} ng-class="{'auto-complete-selected':index === search.dataObj.selected}" ng-mouseover="search.highlight(index)" ng-repeat='(index, value) in search.dataObj.showList' ng-click="search.select(value)">
+      {{value}}
+    </li>
+  </ol>
+</form>
